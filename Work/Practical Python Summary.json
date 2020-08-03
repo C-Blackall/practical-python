@@ -1,0 +1,33 @@
+Practical Python Summary
+
+Ch1 - Introduction
+
+This First section of the tutorial does a great job of teaching you ther fundamentals of different data types and how they can start to interact with each other.
+David starts with core basics with intergers but expands on it to do more complex string and list alteration.
+The goal was teaching pure python but also explain how a library works rather then making heavy use of other libaries such as pandas for the csv examples.
+To finish it off you learn how to make a basic function, pass arguments and raise an error, These are all core skills that you can later use to make something drasticly more complex in nature.
+
+The repetition and simplisity in the chapter allows someone who has never programmed to easily pick up the core aspects and if you are switching languages it reaffirms the appropriate syntax to stopp you making erros such as adding () or : on the end 
+as well as line comments being # or ''' at the start and end of a block.
+
+Personal Reminders From the chapter:
+Indenting is incredibly important in python and will normaly be 4 spaces, however consistency is what really matters.
+Remember to end your variables with () to get the value rather the memory location.
+functions need : at the end inorder to run
+
+
+Ch2 - Working with Data
+
+Ch3 - Program Organization
+
+Ch4 - Classes and Objects
+
+Ch5 - Inner Workings of Python Objects
+
+Ch6 - Generators 
+
+Ch7 - Advanced Topics
+
+Ch8 - Testing, Logging and Debugging
+
+Ch9 - Packages
