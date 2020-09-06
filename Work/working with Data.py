@@ -76,3 +76,6 @@ c       Character (from integer)
 :^10d   Integer centered in 10-character field
 :0.2f   Float with 2 digit precision
 '''
+
+% formating is in order based on the % in a string being returned and for multiple itemes int needs a tuple (1,2,3)
+
