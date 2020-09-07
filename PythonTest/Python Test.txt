@@ -52,3 +52,17 @@ sample csv data
 
 list of formats
 CSV JSON
+
+
+https://problemsolvingwithpython.com/04-Data-Types-and-Variables/04.05-Dictionaries-and-Tuples/
+
+csv
+{"Name": "address": number}
+address_book = {'a': 'b': 1,'a':'1 a st': 3}
+
+
+{'Name', 'Address', 'Number'}
+
+
+
+
